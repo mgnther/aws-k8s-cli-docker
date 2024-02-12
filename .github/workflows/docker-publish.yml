@@ -17,7 +17,7 @@ env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
-  IMAGE_NAME: aws-cli-kubectl
+  IMAGE_NAME: mgnther/aws-cli-kubectl
 
 
 jobs:
